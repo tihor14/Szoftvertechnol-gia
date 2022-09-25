@@ -1,0 +1,34 @@
+body{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color:rgb(6,29,56);
+    color:white;
+}
+.head{
+ 
+    margin: auto;
+    width:20%;
+}
+.head > img{
+    width:100%;
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+    height: 80%;
+    border-collapse: collapse;
+    margin-top: 5%;
+}
+table  th{
+    background-image: url(unnamed.jpg);
+    color: ghostwhite;
+}
+table  td{
+    width:30%;
+}
+.munkakor{
+    text-align: center;
+}
+
+a{
+    color:white;
+}
